@@ -1,3 +1,18 @@
+Paragraph 1 - RNA-seq on cancer cells, derived from student x, and published in y.
+
+Paragraph 2 - Critical files to onboard with the code
+
+Paragraph 3 - Input/Output Data
+
+Paragraph 4 - How to run the code
+
+Paragraph 5 - Questions/Resources
+
+
+
+
+
+
 # RNA-seq_Pipeline
 Step-by-step RNA-seq analysis: FASTQC>STAR>RSEM>TPM>DESeq2
 
